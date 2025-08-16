@@ -11,5 +11,5 @@ The joint was designed using Onshape software, using dimensions provided in the 
 
 
 # Author
-Hind Ibrahim Alsharif
-IT Student at Taif University
+Name: Hind Ibrahim Alsharif  
+IT Student at Taif University  
